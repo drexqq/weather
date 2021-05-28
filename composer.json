@@ -17,5 +17,5 @@
     "autoload": {
         "files" : ["weather.php"]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
