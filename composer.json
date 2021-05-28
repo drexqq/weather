@@ -1,6 +1,8 @@
 {
     "name": "sunghlee/weather",
     "version" : "0.0.0",
+    "type": "library", 
+    "license": "MIT",
     "description": "php get weather",
     "homepage": "http://github.com/drexqq/weather_composer",
     "authors": [
